@@ -2,8 +2,7 @@
 //  VendingItemCell.swift
 //  VendingMachine
 //
-//  Created by Pasan Premaratne on 12/1/16.
-//  Copyright © 2016 Treehouse Island, Inc. All rights reserved.
+//  Created by Ali Asgar Merchant on 12/31/16..
 //
 
 import UIKit
