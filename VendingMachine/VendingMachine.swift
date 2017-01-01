@@ -94,7 +94,7 @@ class InventoryUnarchiver{
 }
 
 class FoodVendingMachine: VendingMachine {
-    let selection: [VendingSelection] = [.soda, .dietSoda, .chips, .cookie, .sandwich, .wrap, .candyBar, .popTart, .water, .fruitJuice, .sportsDrink, .gum]
+    let selection: [VendingSelection] = [.soda, .chips, .dietSoda, .cookie, .sandwich, .wrap, .candyBar, .popTart, .water, .fruitJuice, .sportsDrink, .gum]
     var inventory: [VendingSelection:VendingItem]
     var amountDeposited: Double = 10.0
     
